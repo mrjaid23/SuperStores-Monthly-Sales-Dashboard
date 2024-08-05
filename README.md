@@ -17,7 +17,12 @@ This repository contains a PowerBI dashboard project created to showcase my data
 The data used in this project is sourced from [source of data](https://github.com/mrjaid23/SuperStores-Monthly-Sales-Dashboard/blob/de89c096a20859541bdfebebe33ba4d9aba51f8a/PowerBI_SuperstoreSales%20-%20with%20missing%20data.xlsx).
 
 ## Tools Used
-- Power Query : For data cleaning and accuracy
+- Power Query : For data cleaning and accuracy.
+  - Handling missing values by [method used, e.g., imputation, deletion].
+  - Removing duplicate records.
+  - Normalizing/standardizing data values.
+  - Transforming variables where necessary (e.g., converting date formats, creating new calculated fields).
+
 - Power BI : For Data Processing and Visualization
 
 ## Dashboard 
